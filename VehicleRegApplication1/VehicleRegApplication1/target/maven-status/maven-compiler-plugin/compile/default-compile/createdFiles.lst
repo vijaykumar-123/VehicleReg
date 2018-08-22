@@ -1,0 +1,8 @@
+com\vehicle\service\VehicleService.class
+com\vehicle\controller\VehicleController.class
+com\vehicle\model\Vehicle.class
+com\vehicle\validation\UniqueVehicleNumberValidator.class
+com\vehicle\dao\VehicleDAO.class
+com\vehicle\dao\VehicleDAOImpl.class
+com\vehicle\validation\UniqueVehicleNumber.class
+com\vehicle\service\VehicleServiceImpl.class
